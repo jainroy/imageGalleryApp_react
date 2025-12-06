@@ -14,42 +14,42 @@ function Gallery() {
         {
           id: 2,
           url: 'https://picsum.photos/id/2/300/200',
-          title: 'Image 1'
+          title: 'Image 2'
         },
         {
           id: 3,
           url: 'https://picsum.photos/id/3/300/200',
-          title: 'Image 1'
+          title: 'Image 3'
         },
         {
           id: 4,
           url: 'https://picsum.photos/id/4/300/200',
-          title: 'Image 1'
+          title: 'Image 4'
         },
         {
           id: 5,
           url: 'https://picsum.photos/id/5/300/200',
-          title: 'Image 1'
+          title: 'Image 5'
         },
         {
           id: 6,
           url: 'https://picsum.photos/id/6/300/200',
-          title: 'Image 1'
+          title: 'Image 6'
         },
         {
           id: 7,
           url: 'https://picsum.photos/id/7/300/200',
-          title: 'Image 1'
+          title: 'Image 7'
         },
         {
           id: 8,
           url: 'https://picsum.photos/id/8/300/200',
-          title: 'Image 1'
+          title: 'Image 8'
         },
         {
           id: 9,
           url: 'https://picsum.photos/id/9/300/200',
-          title: 'Image 1'
+          title: 'Image 9'
         },
       ]
       setImages(data)
